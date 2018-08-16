@@ -13,6 +13,7 @@
   "author": "aditya",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.18.0",
     "nodemon": "^1.18.3",
     "request": "^2.88.0",
     "yargs": "^4.8.1"
