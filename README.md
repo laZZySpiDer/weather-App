@@ -18,4 +18,4 @@ One can check the temperature by running the command
 'node app.js -a your Address'
 
 
-- [ ] todo1
+- [x] todo1
